@@ -13,7 +13,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0"
   },
-  "homepage": "https://corey-hammond.github.io/",
+  "homepage": "https://corey-hammond.github.io/frontend-design-challenge",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
