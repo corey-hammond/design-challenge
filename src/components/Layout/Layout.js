@@ -2,13 +2,13 @@ import React from "react";
 import { Link } from "react-router-dom";
 import SVG from "../SVG";
 import Menu from "../Menu/Menu";
-import classes from './Layout.module.css'
+import classes from "./Layout.module.css";
 
 const layout = props => {
   return (
     <header className={classes.Nav}>
       <div className={classes.Menu}>
-        <Link to="/">
+        <Link to="/frontend-design-challenge">
           <SVG />
         </Link>
         <Menu />

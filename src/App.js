@@ -16,17 +16,17 @@ class App extends Component {
         <Fragment>
           <Layout />
           <Switch>
-            <Route exact path="/" component={Page} />
+            <Route exact path="/frontend-design-challenge" component={Page} />
             <Route
-              path="/industries"
+              path="/frontend-design-challenge/industries"
               render={() => <Page data={this.state.data.pages[0].blocks[0]} />}
             />
             <Route
-              path="/services"
+              path="/frontend-design-challenge/services"
               render={() => <Page data={this.state.data.pages[1].blocks[0]} />}
             />
             <Route
-              path="/about"
+              path="/frontend-design-challenge/about"
               render={() => <Page data={this.state.data.pages[2].blocks[0]} />}
             />
           </Switch>

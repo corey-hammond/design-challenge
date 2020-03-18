@@ -7,13 +7,13 @@ const menu = props => {
     <nav className={classes.Menu}>
       <ul className={classes.Nav}>
         <li>
-          <Link to="/industries">Industries</Link>
+          <Link to="/frontend-design-challenge/industries">Industries</Link>
         </li>
         <li>
-          <Link to="/services">Services</Link>
+          <Link to="/frontend-design-challenge/services">Services</Link>
         </li>
         <li>
-          <Link to="/about">About Us</Link>
+          <Link to="/frontend-design-challenge/about">About Us</Link>
         </li>
       </ul>
     </nav>
