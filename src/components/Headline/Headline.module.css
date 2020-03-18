@@ -1,5 +1,6 @@
 .Headline {
-  width: 45vw;
+  width: 35vw;
+  justify-self: center;
 }
 
 .HeadlineText {

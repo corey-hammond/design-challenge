@@ -1,12 +1,14 @@
 .Nav {
   display: flex;
   justify-content: space-between;
+  align-items: flex-start;
   padding-top: 1em;
   margin: 1em 4em;
 }
 
 .Menu {
-  font-size: .8em;
+  font-size: 0.8em;
+  padding-left: 1em;
 }
 
 .ContactButton {
@@ -17,5 +19,4 @@
   color: #ffffff;
   font-size: 15px;
   letter-spacing: 0;
-
 }

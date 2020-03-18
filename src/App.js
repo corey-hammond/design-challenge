@@ -4,7 +4,6 @@ import { Route, Switch } from "react-router-dom";
 import Layout from "./components/Layout/Layout";
 import Page from "./components/Page/Page";
 import data from "./assets/data/data.json";
-import "./App.css";
 
 class App extends Component {
   state = {
