@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/frontend-design-challenge/static/css/main.75bcedee.chunk.css",
-    "main.js": "/frontend-design-challenge/static/js/main.5d627a85.chunk.js",
-    "main.js.map": "/frontend-design-challenge/static/js/main.5d627a85.chunk.js.map",
-    "runtime-main.js": "/frontend-design-challenge/static/js/runtime-main.4a7c4ce0.js",
-    "runtime-main.js.map": "/frontend-design-challenge/static/js/runtime-main.4a7c4ce0.js.map",
-    "static/js/2.0aad945d.chunk.js": "/frontend-design-challenge/static/js/2.0aad945d.chunk.js",
-    "static/js/2.0aad945d.chunk.js.map": "/frontend-design-challenge/static/js/2.0aad945d.chunk.js.map",
-    "index.html": "/frontend-design-challenge/index.html",
-    "precache-manifest.ccba98908387b52698e0b454b5d1fbb9.js": "/frontend-design-challenge/precache-manifest.ccba98908387b52698e0b454b5d1fbb9.js",
-    "service-worker.js": "/frontend-design-challenge/service-worker.js",
-    "static/css/main.75bcedee.chunk.css.map": "/frontend-design-challenge/static/css/main.75bcedee.chunk.css.map",
-    "static/js/2.0aad945d.chunk.js.LICENSE.txt": "/frontend-design-challenge/static/js/2.0aad945d.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/frontend-design-challenge/static/media/bg.c89a3c51.png"
+    "main.css": "/design-challenge/static/css/main.6a629298.chunk.css",
+    "main.js": "/design-challenge/static/js/main.2af0cc18.chunk.js",
+    "main.js.map": "/design-challenge/static/js/main.2af0cc18.chunk.js.map",
+    "runtime-main.js": "/design-challenge/static/js/runtime-main.6f9d1824.js",
+    "runtime-main.js.map": "/design-challenge/static/js/runtime-main.6f9d1824.js.map",
+    "static/js/2.0aad945d.chunk.js": "/design-challenge/static/js/2.0aad945d.chunk.js",
+    "static/js/2.0aad945d.chunk.js.map": "/design-challenge/static/js/2.0aad945d.chunk.js.map",
+    "index.html": "/design-challenge/index.html",
+    "precache-manifest.c497ff941d6a8e903233a5a7f2cfea22.js": "/design-challenge/precache-manifest.c497ff941d6a8e903233a5a7f2cfea22.js",
+    "service-worker.js": "/design-challenge/service-worker.js",
+    "static/css/main.6a629298.chunk.css.map": "/design-challenge/static/css/main.6a629298.chunk.css.map",
+    "static/js/2.0aad945d.chunk.js.LICENSE.txt": "/design-challenge/static/js/2.0aad945d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/design-challenge/static/media/bg.c89a3c51.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a7c4ce0.js",
+    "static/js/runtime-main.6f9d1824.js",
     "static/js/2.0aad945d.chunk.js",
-    "static/css/main.75bcedee.chunk.css",
-    "static/js/main.5d627a85.chunk.js"
+    "static/css/main.6a629298.chunk.css",
+    "static/js/main.2af0cc18.chunk.js"
   ]
 }
