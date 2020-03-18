@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import SVG from "../SVG";
+import SVG from "../SVG/SVG";
 import Menu from "../Menu/Menu";
 import classes from "./Layout.module.css";
 
