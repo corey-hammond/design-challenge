@@ -8,7 +8,7 @@ const layout = props => {
   return (
     <header className={classes.Nav}>
       <div className={classes.Menu}>
-        <Link to="/frontend-design-challenge">
+        <Link to="/design-challenge">
           <SVG />
         </Link>
         <Menu />
